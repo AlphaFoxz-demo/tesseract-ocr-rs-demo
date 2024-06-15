@@ -2,7 +2,11 @@
 
 ## 前置环境
 
-```bat
+### 安装[tesseract](https://tesseract-ocr.github.io/)
+
+### 安装运行时依赖（Windows）
+
+```sh
 # install vcpkg
 git clone https://github.com/microsoft/vcpkg.git
 .\bootstrap-vcpkg.bat
